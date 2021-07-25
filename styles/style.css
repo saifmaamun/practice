@@ -1,0 +1,18 @@
+.bgi {
+    background-image: url(/images/top\ BG.png);
+}
+
+.heading {
+    width: 30%;
+}
+
+.heading .btn {
+    background: #F33D01;
+    border-radius: 48px;
+    padding: 10px 30px;
+}
+
+.heading a {
+    text-decoration: none;
+    color: white;
+}
